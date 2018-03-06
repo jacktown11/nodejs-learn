@@ -4,6 +4,8 @@
 ```
 git clone git@github.com:jacktown11/nodejs-learn.git
 
+cd nodejs-learn
+
 npm install --save
 
 node index.js
