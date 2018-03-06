@@ -2,7 +2,7 @@
 
 # How to use
 ```
-npm install -save
+git clone git@github.com:jacktown11/nodejs-learn.git
 
 node index.js
 
